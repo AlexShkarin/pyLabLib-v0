@@ -12,7 +12,8 @@ This will install only the minimal subset of dependencies. To add packages neede
 
     pip install "pylablib[devio,gui]<1"
 
-**Alternatively, you can install the** `new version <https://pylablib.readthedocs.io/>`__ **and, if you need it, use the** `legacy code package <https://pylablib.readthedocs.io/en/latest/changelog.html#version-1-x>`__ **there.**
+.. note::
+    It is recommended tp can install the `new version <https://pylablib.readthedocs.io/>`__ and, if you need it, use the `legacy code package <https://pylablib.readthedocs.io/en/latest/changelog.html#version-1-x>`__ there.
 
 -----
 Usage

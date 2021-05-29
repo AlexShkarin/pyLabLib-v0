@@ -6,7 +6,8 @@
 Welcome to pyLabLib's documentation!
 ====================================
 
-**This is the last 0.x version of the library. The new library (1.x) is located at** https://github.com/AlexShkarin/pyLabLib/, ** and its documentation can be found at** https://pylablib.readthedocs.io/. **It has large changes in the interface and code organization, rendering almost all previous code partially incompatible (see the** `new documentation <https://pylablib.readthedocs.io/en/latest/changelog.html#version-1-x/>`__ **for details).**
+.. note::
+    This is the last **0.x** version of the library. The new library (**1.x**) is located at https://github.com/AlexShkarin/pyLabLib/, and its documentation can be found at https://pylablib.readthedocs.io/. It has large changes in the interface and code organization, rendering almost all previous code partially incompatible (see the `new documentation <https://pylablib.readthedocs.io/en/latest/changelog.html#version-1-x/>`__ for details).
 
 .. toctree::
     :maxdepth: 2
