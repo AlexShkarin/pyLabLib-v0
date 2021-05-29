@@ -4,13 +4,15 @@
 Installation
 ============
 
-You can install the library using pip::
+You can install the old version of the library (0.4.2) described here using pip::
 
-    pip install pylablib
+    pip install "pylablib<1"
 
 This will install only the minimal subset of dependencies. To add packages needed for device communication, you can specify ``devio`` extra (on non-Windows systems use ``devio-basic``, as some of the packages are not available there). To add packages needed for GUI, you can specify ``gui`` extra (note that one of the required packages is ``PyQt5``, which is not available on pip for Python 2.7; hence, it needs to be installed prior to installing pyLabLib). To grab full set of required packages, call::
 
-    pip install pylablib[devio,gui]
+    pip install "pylablib[devio,gui]<1"
+
+Alternatively, you can install the `new version <https://pylablib.readthedocs.io/>`__ and, if you need it, use the `legacy code package <https://pylablib.readthedocs.io/en/latest/changelog.html#version-1-x>`__ there.
 
 -----
 Usage
