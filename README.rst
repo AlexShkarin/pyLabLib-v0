@@ -3,7 +3,7 @@ Overview
 
 PyLabLib is a collection of code intended to simplify some of the coding tasks encountered in a physics laboratory.
 
-**This is the last 0.x version of the library. The new library (1.x) is located at (https://github.com/AlexShkarin/pyLabLib). It has large changes in the interface and code organization, rendering almost all previous code partially incompatible (see also https://pylablib.readthedocs.io/en/latest/changelog.html#version-1-x).**
+**This is the last 0.x version of the library. The new library (1.x) is located at** https://github.com/AlexShkarin/pyLabLib/. **It has large changes in the interface and code organization, rendering almost all previous code partially incompatible (see the** `new documentation <https://pylablib.readthedocs.io/en/latest/changelog.html#version-1-x/>`__ **for details).**
 
 Some major parts include:
     - Simpler loading and saving of data in text or binary files.
